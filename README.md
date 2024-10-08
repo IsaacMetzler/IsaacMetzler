@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on deploying a support ticketing system via OracleBox<br>- 🌱 I’m currently learning Networking and Subnetting<br>- 📫 How to reach me: IsaacJMetzler@gmail.com
+🔭 I’m currently working on deploying a support ticketing system via OracleBox<br>🌱 I’m currently learning Networking and Subnetting<br>📫 How to reach me: IsaacJMetzler@gmail.com
 
 
 ## 🌐 Socials:
